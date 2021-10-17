@@ -1,4 +1,4 @@
-import randomrururur
+import random
 
 guessesTaken = 0
 
